@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctimidesceasa.github.io/sitemap.html
+Sitemap: https://ctimidesceasa.github.io/app/sitemap.html
+Sitemap: https://ctimidesceasa.github.io/assets/sitemap.html
+Sitemap: https://ctimidesceasa.github.io/css/sitemap.html
+Sitemap: https://ctimidesceasa.github.io/includes/sitemap.html
+Sitemap: https://ctimidesceasa.github.io/item/sitemap.html
+Sitemap: https://ctimidesceasa.github.io/src/sitemap.html
